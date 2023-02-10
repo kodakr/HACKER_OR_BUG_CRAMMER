@@ -9,3 +9,6 @@ Can u see beyound what u see?? Prove that to moloch. Steal 1 wei outa MolochVaul
 - Moloch has a personal algorithm
 - Its Mission Impossible!!
 - HAHAHHAHAHAH!!!!!
+
+## HINT
+- Moloch is the 3rd cabals
