@@ -4,7 +4,7 @@ Prove that to moloch. Steal 1 wei outa MolochVault
 
 ## Know this and back down early
 - Vault been safe for 1000 yrs
-- Written in demons Language
+- Written in demons Lingua
 - Moloch has a personal algorithm
 - Its Mission Impossible!!
 - HAHAHHAHAHAH!!!!!
