@@ -8,6 +8,7 @@
 ## Hint/Info to participant
 - Link to [Moloch's tweet](https://twitter.com/Kodak_Rome/status/1624372583310262279?t=_iNw3oWhcMmISeECaDBTTA&s=19) (Preimage found in updated source code).
 - Moloch is the 3rd Person of cabals.
+- Failure to provide deep detail of steps taken is regarded as failure (cause it was deployed)
 
 ## Expectation from participant
 - Focus and not distracted by scattered code, arbitrary varible terms.
@@ -18,9 +19,10 @@
 - **Challenge Passed**
 
 ## Personal Appeal/request
-Being aware of the current situation in which challenge contracts are nolonger deployed to goerli due to some potential malpractice.
+1. Being aware of the current situation in which challenge contracts are nolonger deployed to goerli due to some potential malpractice.
 I'll like to request that this be revoked for this challenge due to the following reasons:
 - // details demdnded
 - The challenge is heavily based on extracting data 4rm storage. Hence should be deployed
-- One solution/ extracted answer/ string value expected. Hence scoring made easy.
-- The nature of this challenge isnt revealing via transaction scan as most of its functions are not even required to hack the contract, also doesnt require `selfdestruct()` which can be seen
+- Results to *Unity* of solution/extracted answer/string value expected. Hence scoring made easy.
+- The nature of this challenge isnt revealing via transaction scan as most of its functions are not even required to hack the contract, also doesnt require `selfdestruct()` which can be seen on etherscan. (If theres a way im not aware of pls notify me via discord).
+- Infact even if a whole attacker contract can be seen via etherscan, participant still has to provide details of: algorithm decryption, formula for extracting data in `struct`, `keccak256(abi.encodepacked()` manipulations.
