@@ -43,12 +43,7 @@ I'll like to request that this be revoked for this challenge due to the followin
 ## Expected answer (using above inputs)
 - **BLOODY PHARMACIST**
 
-[^1]: so much inspiration gotten from [molochdao](https://molochdao.com)
+	Here's a sentence with a footnote. [^1]
 
-	```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+[^1]: This is the footnote.
+
