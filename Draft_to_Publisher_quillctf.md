@@ -15,7 +15,7 @@
 - Understand & dissasemble contract storage & get Moloch-encrypted passss using ethers.js
 - Decrypt the retrieved value using [Moloch-Algorithm](https://twitter.com/Kodak_Rome/status/1624372583310262279?t=_iNw3oWhcMmISeECaDBTTA&s=19)
 - Pass the decrypted value into `uhER778()` while solving some challenges as well. Setting  `realHacker[msg.sender] = true`
-- Withdrawing 1 wei via sendGrant()
+- Withdrawing 1 wei via `sendGrant()`
 - **Challenge Passed**
 ## Details required in participants POC
 - Detailed formula for finding slot of dynamic struct
