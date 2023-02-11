@@ -7,14 +7,14 @@
  
 ## Hint/Info to participant
 - Link to [Moloch's tweet](https://twitter.com/Kodak_Rome/status/1624372583310262279?t=_iNw3oWhcMmISeECaDBTTA&s=19) (Preimage found in updated source code).
-- Moloch is the 3rd Person of cabals.
+- Moloch is the 3rd Person in `Cabal[] private cabals;`
 - Failure to provide deep detail of steps taken is regarded as failure (cause it was deployed)
 
 ## Expectation from participant
 - Focus and not distracted by scattered code, arbitrary varible terms.
 - Understand & dissasemble contract storage & get Moloch-encrypted passss using ethers.js
 - Decrypt the retrieved value using [Moloch-Algorithm](https://twitter.com/Kodak_Rome/status/1624372583310262279?t=_iNw3oWhcMmISeECaDBTTA&s=19)
-- Pass the decrypted value into uhER778() while solving some challenges as well. Setting  `realHacker[msg.sender] = true`
+- Pass the decrypted value into `uhER778()` while solving some challenges as well. Setting  `realHacker[msg.sender] = true`
 - Withdrawing 1 wei via sendGrant()
 - **Challenge Passed**
 ## Details required in participants POC
