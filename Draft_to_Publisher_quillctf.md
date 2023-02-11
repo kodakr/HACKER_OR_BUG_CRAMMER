@@ -8,7 +8,7 @@
 ## Hint/Info to participant
 - Link to [Moloch's tweet](https://twitter.com/Kodak_Rome/status/1624372583310262279?t=_iNw3oWhcMmISeECaDBTTA&s=19) (Preimage found in updated source code).
 - Moloch is the 3rd Person in `Cabal[] private cabals;`
-- Failure to provide deep detail of steps taken is regarded as failure (cause it was deployed)
+- Failure to provide deep detail of steps taken is regarded as failure.
 
 ## Expectation from participant
 - Focus and not distracted by scattered code, arbitrary varible terms.
