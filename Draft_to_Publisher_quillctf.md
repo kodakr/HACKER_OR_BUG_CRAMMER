@@ -35,14 +35,11 @@ I'll like to request that this be revoked for this challenge due to the followin
 - Infact even if a whole attacker contract can be seen via etherscan, participant still has to provide details of: algorithm decryption, formula for extracting data in `struct`, `keccak256(abi.encodepacked()` manipulations.
 
 ## Constructor input for deployment
-`
-{
+`{
 molochPass: "BLOODY PHARMACIST",
 _B: ["WHO DO YOU", "SERVE?"],
 A: ["0x5B38Da6a701c568545dCfcB03FcB875f56beddC4","0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2","0x4B20993Bc481177ec7E8f571ceCaE8A9e22C02db"]
 _PASSSS: ["KCLEQ","BGTGJQNGP","ZJQQBW*NFCPKCAKQR"]
-}
-
-`
+}`
 
 ## Expected answer (using above inputs)
