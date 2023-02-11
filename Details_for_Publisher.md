@@ -6,6 +6,5 @@
  - Hacker deals with code. code is code irrespective whats coded.
  
 ## Hint/Info to participant
-- Link to Moloch algorithm (found in updated source code)
-- [Moloch-algorithm](https://twitter.com/Kodak_Rome/status/1624372583310262279?t=_iNw3oWhcMmISeECaDBTTA&s=19) also on updated source code.
+- Link to [Moloch-algorithm](https://twitter.com/Kodak_Rome/status/1624372583310262279?t=_iNw3oWhcMmISeECaDBTTA&s=19) (found in updated source code).
 - 
