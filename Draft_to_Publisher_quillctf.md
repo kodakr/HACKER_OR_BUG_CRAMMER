@@ -16,3 +16,11 @@
 - Pass the decrypted value into uhER778() while solving some challenges as well. Setting  `realHacker[msg.sender] = true`
 - Withdrawing 1 wei via sendGrant()
 - **Challenge Passed**
+
+## Personal Appeal/request
+Being aware of the current situation in which challenge contracts are nolonger deployed to goerli due to some potential malpractice.
+I'll like to request that this be revoked for this challenge due to the following reasons:
+- // details demdnded
+- The challenge is heavily based on extracting data 4rm storage. Hence should be deployed
+- One solution/ extracted answer/ string value expected. Hence scoring made easy.
+- The nature of this challenge isnt revealing via transaction scan as most of its functions are not even required to hack the contract, also doesnt require 'selfdestruct' which can be seen
