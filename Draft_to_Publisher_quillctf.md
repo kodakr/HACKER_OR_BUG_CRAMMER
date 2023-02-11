@@ -23,4 +23,4 @@ I'll like to request that this be revoked for this challenge due to the followin
 - // details demdnded
 - The challenge is heavily based on extracting data 4rm storage. Hence should be deployed
 - One solution/ extracted answer/ string value expected. Hence scoring made easy.
-- The nature of this challenge isnt revealing via transaction scan as most of its functions are not even required to hack the contract, also doesnt require 'selfdestruct' which can be seen
+- The nature of this challenge isnt revealing via transaction scan as most of its functions are not even required to hack the contract, also doesnt require `selfdestruct()` which can be seen
