@@ -45,5 +45,5 @@ I'll like to request that this be revoked for this challenge due to the followin
 
 	Here's a sentence with a footnote. [^1]
 
-[^1]: This is the footnote.
+[^1]: So much inspiration gotten from [Molochdao](https://molochdao.com)
 
