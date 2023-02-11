@@ -44,3 +44,11 @@ I'll like to request that this be revoked for this challenge due to the followin
 - **BLOODY PHARMACIST**
 
 [^1]: so much inspiration gotten from [molochdao](https://molochdao.com)
+
+	```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
