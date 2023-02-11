@@ -46,7 +46,6 @@ _PASSSS: ["KCLEQ","BGTGJQNGP","ZJQQBW*NFCPKCAKQR"]
 
 ## Expected answer (using above inputs)
 - **BLOODY PHARMACIST**
-- 
 Here's a sentence with a footnote. [^1]
 
 [^1]: So much inspiration gotten from [Molochdao](https://molochdao.com)
