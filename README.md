@@ -11,4 +11,4 @@ Can u see beyound what u see?? Prove that to moloch. Steal 1 wei outa MolochVaul
 - HAHAHHAHAHAH!!!!!
 
 ## HINT
-- Moloch is the 3rd cabals
+- Moloch is the 3rd in array `Cabal[] private cabals;`
