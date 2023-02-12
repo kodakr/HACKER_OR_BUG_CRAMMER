@@ -50,5 +50,5 @@ _PASSSS: ["KCLEQ","BGTGJQNGP","ZJQQBW*NFCPKCAKQR"]
 
 
 
-Here's a sentence with a footnote. [^1]
-[^1]: So much inspiration gotten from [Molochdao](https://molochdao.com)
+Inspiration. [^1]
+[^1]: So much inspiration gotten from [Molochdao website](https://molochdao.com)
