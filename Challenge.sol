@@ -4,7 +4,6 @@ pragma solidity ^0.8.7;
 Title:Hacker or bug crammer?
 Author: @Kodak_Rome
 Inspiration from: https://molochdao.com/
-
 */
 
 
