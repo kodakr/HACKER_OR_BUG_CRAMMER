@@ -29,7 +29,7 @@
 1. Being aware of the current situation in which challenge contracts are nolonger deployed to goerli due to some potential malpractice.
 I'll like to request that this be revoked for this challenge due to the following reasons:
 
-- The challenge is heavily based on extracting data 4rm storage. Hence should be deployed
+- The challenge is heavily based on extracting data 4rm live storage using ethers.js. Hence should be deployed
 - If deployed, *Unity* of solution/extracted answer/string value is achieved. Hence scoring made easy.
 - The nature of this challenge isnt revealing via transaction scan as most of its functions are not even required to hack the contract, also doesnt require `selfdestruct()` which can be seen on etherscan. (If theres a way im not aware of pls notify me via discord).
 - Infact even if a whole attacker contract can be seen via etherscan, participant still has to provide details of: algorithm decryption, formula for extracting data in `struct`, `keccak256(abi.encodepacked()` manipulations in POC as stated above.
