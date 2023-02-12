@@ -17,7 +17,7 @@
 - Pass the decrypted value into `uhER778()` while solving some challenges as well. Setting  `realHacker[msg.sender] = true`
 - Withdrawing 1 wei via `sendGrant()` (multiple Times)
 - **Challenge Passed**
-## Details required in participants POC
+## Details required from participants POC
 - Detailed formula for finding slot of dynamic struct => `uint(keccak256(abi.encodePacked(slot))) + (index * elementsize);`
 - state the derived string => "ZJQQBW*NFCPKCAKQR"
 - Details of decrypting Moloch-algorithm => consonants: 2steps back, vowels: 2steps foward.
