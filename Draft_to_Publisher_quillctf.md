@@ -32,7 +32,8 @@ I'll like to request that this be revoked for this challenge due to the followin
 - The challenge is heavily based on extracting data 4rm storage. Hence should be deployed
 - If deployed, *Unity* of solution/extracted answer/string value is achieved. Hence scoring made easy.
 - The nature of this challenge isnt revealing via transaction scan as most of its functions are not even required to hack the contract, also doesnt require `selfdestruct()` which can be seen on etherscan. (If theres a way im not aware of pls notify me via discord).
-- Infact even if a whole attacker contract can be seen via etherscan, participant still has to provide details of: algorithm decryption, formula for extracting data in `struct`, `keccak256(abi.encodepacked()` manipulations.
+- Infact even if a whole attacker contract can be seen via etherscan, participant still has to provide details of: algorithm decryption, formula for extracting data in `struct`, `keccak256(abi.encodepacked()` manipulations in POC as stated above.
+2. I wouldnt mind helping with deployment.
 
 ## Constructor inputs
 ```
