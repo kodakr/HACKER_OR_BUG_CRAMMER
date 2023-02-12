@@ -60,8 +60,9 @@ contract MOLOCH_VAULT {
 
     constructor( string memory molochPass,string[2] memory _b, address payable[3] memory a, string[3] memory _passss)payable {
         /*
-        Perhaps Irrelevant;
-        Hint: All _passss were moloch-encrypted before input as added sec.
+        Intelligence. Perhaps Irrelevant;
+        All value in string _passss were moloch-encrypted before input as added sec.
+        string molochPass is Moloch-hash-algorithm preimage to 3rd value passed in string[3] _passss.
         Moloch-encryption algorithm was used to tweet
         "THE FUTURE OF HUMANITY REQUIRES THE SACRIFICE YOUR SHALLOW DESIRES" 
         On 11/02/2023 via @Kodak_Rome
