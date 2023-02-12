@@ -15,13 +15,13 @@
 - Understand & dissasemble contract storage & get Moloch-encrypted passss using ethers.js
 - Decrypt the retrieved value using [Moloch-Algorithm](https://twitter.com/Kodak_Rome/status/1624372583310262279?t=_iNw3oWhcMmISeECaDBTTA&s=19)
 - Pass the decrypted value into `uhER778()` while solving some challenges as well. Setting  `realHacker[msg.sender] = true`
-- Withdrawing 1 wei via `sendGrant()`
+- Withdrawing 1 wei via `sendGrant()` (multiple Times)
 - **Challenge Passed**
 ## Details required in participants POC
-- Detailed formula for finding slot of dynamic struct
-- state the derived string
-- Details of decrypting Moloch-algorithm
-- state decrypted preimage
+- Detailed formula for finding slot of dynamic struct => `uint(keccak256(abi.encodePacked(slot))) + (index * elementsize);`
+- state the derived string => "ZJQQBW*NFCPKCAKQR"
+- Details of decrypting Moloch-algorithm => consonants: 2steps back, vowels: 2steps foward.
+- state decrypted preimage => "BLOODY PHARMACIST"
 - Expliain bypass `keccak256(abi.encodepacked()`.
 - Stated Attacker address expected to reflect true from `mapping(address => bool) public realHacker;`
 
