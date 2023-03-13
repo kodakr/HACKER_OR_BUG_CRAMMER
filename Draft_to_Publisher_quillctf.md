@@ -57,7 +57,6 @@ contract Attacker {
     constructor(address payable a) payable{
         vault = MOLOCH_VAULT(a);
     }
-
     /*@attack is called with the following payload;
     ["BLOODY PHARMACIST","WHO DO YO", "USERVE?"]
     */
