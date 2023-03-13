@@ -1,5 +1,5 @@
-# HACKER_OR_BUG_CRAMMER???
-Can u see beyound what u see?? Prove that to moloch. Steal 1 wei outa MolochVault
+# MOLOCH'S VAULT
+Can u see beyound what u see?? Prove that to moloch. Leak at least 1 wei outa MolochVault
 
 - ![Mloloch](https://media.giphy.com/media/Lr9Y5rWFIpcsTSodLj/giphy.gif)
 
