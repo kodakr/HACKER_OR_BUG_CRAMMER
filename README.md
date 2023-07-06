@@ -1,3 +1,5 @@
+## About Author
+This CTF challeng was entirely authored by me ![Henry.O](https://twitter.com/Kodak_Rome) and published via QuillCTF.  
 # MOLOCH'S VAULT
 Can u see beyound what u see?? Prove that to moloch. Leak at least 1 wei outa MolochVault
 
@@ -5,7 +7,6 @@ Can u see beyound what u see?? Prove that to moloch. Leak at least 1 wei outa Mo
 
 ## Know this and back down early
 - Vault been safe for 1000 yrs (despite hints)
-- Written in demons Lingua
 - Moloch has a personal algorithm
 - Its Mission Impossible!!
 - HAHAHHAHAHAH!!!!!
