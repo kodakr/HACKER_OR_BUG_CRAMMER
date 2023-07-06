@@ -1,5 +1,5 @@
 ## About Author
-This CTF challeng was entirely authored by me ![Henry.O](https://twitter.com/Kodak_Rome) and published via QuillCTF.  
+This CTF challeng was entirely authored by me [Henry.O](https://twitter.com/Kodak_Rome) and published via QuillCTF.  
 # MOLOCH'S VAULT
 Can u see beyound what u see?? Prove that to moloch. Leak at least 1 wei outa MolochVault
 
